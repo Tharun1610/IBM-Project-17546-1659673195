@@ -1,5 +1,5 @@
 ![IBM (6)](https://user-images.githubusercontent.com/89471037/200232377-9b1da2e8-dac9-4565-9f7b-9d0f540f5b0c.gif)
-<h2 align="center"><img src="https://user-images.githubusercontent.com/89471037/201676381-ba6f7701-d712-40b9-b155-5cc314e1eba1.gif" width="90px"> Digital Naturalist - AI Enabled tool for Biodiversity Researchers <img src="https://user-images.githubusercontent.com/89471037/201676381-ba6f7701-d712-40b9-b155-5cc314e1eba1.gif" width="90px"> </h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/89471037/201676381-ba6f7701-d712-40b9-b155-5cc314e1eba1.gif" width="90px"> Digital Naturalist - AI Enabled tool for Biodiversity Researchers</h2>
 
 <h3><ul>
 <li>TECHNOLOGY : Artificial Intelligence</li>
