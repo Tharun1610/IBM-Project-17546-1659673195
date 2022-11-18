@@ -32,32 +32,48 @@ In this project, we are creating a web application which uses a deep learning mo
  <h1><img src="https://user-images.githubusercontent.com/89471037/202525131-01c29de9-6561-43cb-9d81-20eeef68fa5e.png"  width="45" height="45">  Completed Tasks : </h1>
 
 <h3> ideation phase </h3>
+
 - [x] Empathy Map <br>
 - [x] Literature Survey <br>
 - [x] Problem Statement <br>
 - [x] Brainstorm_and_Idea_Prioritization <br>
 
 <h3>project design phase 1 </h3>
+
 - [x] Problem_solution_fit  <br>
 - [x] Proposed_Solution <br>
 - [x] Solution_Architecture <br>
 
 <h3>project design phase 2</h3>
+
 - [x] Customer Journey Map <br>
 - [x] Data Flow Diagrams and User Stories <br>
 - [x] Solution Requirements <br>
 - [x] Technology Architecture <br>
 
 <h3>project planning</h3>
+
 - [x] Milestone & Activity plan<br>
 - [x] Sprint Delivery Plan <br>
 - [x]  RoadMap <br>
 
 <h3>Assignment</h3>
+
 - [x] Assignment - 1 <br>
 - [x] Assignment - 2  <br>
 - [x] Assignment - 3  <br>
 - [x] Assignment - 4 <br>
+
+<h3>Project Development Phase</h3>
+
+- [x] Sprint - 1 <br>
+- [x] Sprint - 2 <br>
+- [x] Sprint - 3 <br>
+- [x] Sprint - 4 <br>
+
+
+
+
 
 # <img src="https://user-images.githubusercontent.com/89471037/202519864-edc05a08-07f1-4b65-9ae3-ce8ddbc96020.png"  width="30px"> <b>DOMAIN</b>
 ![BIRD (1)](https://user-images.githubusercontent.com/89471037/202522077-c5403cc2-5f46-4c29-a393-adb849d8dca5.gif)
