@@ -4,7 +4,7 @@
 ![home_page](https://user-images.githubusercontent.com/89471037/200649819-6907751a-8068-4c5b-aa0f-f653c10b7248.jpg)
 
 
+
 <p>screenshot_2(main_page)</p>
 
-![main_page](https://user-images.githubusercontent.com/89471037/200649306-da6222e6-cf8b-483f-ba0e-211aa9bb8c08.jpg)
-
+![Screenshot (61)](https://user-images.githubusercontent.com/89471037/202737764-f49a1bf5-1406-478d-aa18-366a80afdf43.png)
