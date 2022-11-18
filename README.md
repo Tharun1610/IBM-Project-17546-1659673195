@@ -29,12 +29,7 @@ In this project, we are creating a web application which uses a deep learning mo
 
 <img src="https://user-images.githubusercontent.com/89471037/201671567-5b185ebb-02e2-4428-8d4d-5ac307772400.gif">
 
-
-# <img src="https://user-images.githubusercontent.com/89471037/202519864-edc05a08-07f1-4b65-9ae3-ce8ddbc96020.png"  width="30px"> <b>DOMAIN</b>
-![BIRD (1)](https://user-images.githubusercontent.com/89471037/202522077-c5403cc2-5f46-4c29-a393-adb849d8dca5.gif)
-<br>
-<br>
-# <img src="https://user-images.githubusercontent.com/89471037/202525131-01c29de9-6561-43cb-9d81-20eeef68fa5e.png"  width="45" height="45"> Completed Tasks :
+ <h1><img src="https://user-images.githubusercontent.com/89471037/202525131-01c29de9-6561-43cb-9d81-20eeef68fa5e.png"  width="45" height="45">  Completed Tasks : </h1>
 
 <h3> ideation phase </h3>
 - [x] Empathy Map <br>
@@ -64,5 +59,6 @@ In this project, we are creating a web application which uses a deep learning mo
 - [x] Assignment - 3  <br>
 - [x] Assignment - 4 <br>
 
-
+# <img src="https://user-images.githubusercontent.com/89471037/202519864-edc05a08-07f1-4b65-9ae3-ce8ddbc96020.png"  width="30px"> <b>DOMAIN</b>
+![BIRD (1)](https://user-images.githubusercontent.com/89471037/202522077-c5403cc2-5f46-4c29-a393-adb849d8dca5.gif)
 
