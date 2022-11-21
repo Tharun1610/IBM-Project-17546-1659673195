@@ -79,5 +79,3 @@ In this project, we are creating a web application which uses a deep learning mo
 ![BIRD (1)](https://user-images.githubusercontent.com/89471037/202522077-c5403cc2-5f46-4c29-a393-adb849d8dca5.gif)
 
 
-
-
